@@ -109,4 +109,23 @@ nav a:hover {
     font-weight: bold;
     color: #b08968;
     font-size: 1.1rem;
+    .location-section {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #ffffff;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 12px;
+}
+
+.location-details {
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+}
+
+.map-container {
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
 }
